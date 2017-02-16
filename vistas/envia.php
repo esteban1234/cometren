@@ -17,11 +17,11 @@ $mail->From = $correo;
 $mail->FromName = $nombre;
 
 //To address and name
-$mail->addAddress("info@corporativocaos.com");
+$mail->addAddress("info@cometren.com");
 
 $mail->isHTML(true);
 
-$mail->Subject = "Cotizacion Caos";
+$mail->Subject = "Cotizacion Cometren";
 $mail->Body = "
               <b>Telefono: </b>.$telefono.<br/>
               <b>Comentario: </b>.$comentario.<br/>";
