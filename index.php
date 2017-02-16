@@ -19,10 +19,10 @@
  		<div class="menu">
 			<nav>
 				<ul>
-					<li class="select"><a href="#"><span><i class="fa fa-home" aria-hidden="true"></i></span>Inicio</a></li>
-					<li><a href="#"><span><i class="fa fa-suitcase" aria-hidden="true"></i></span>Quienes somos</a></li>
-					<li><a href="#"><span><i class="fa fa-users" aria-hidden="true"></i></span>Servicios</a></li>
-					<li><a href="#"><span><i class="fa fa-phone" aria-hidden="true"></i></span>Contacto</a></li>
+					<li class="select"><a href="index.php"><span><i class="fa fa-home" aria-hidden="true"></i></span>Inicio</a></li>
+					<li><a href="vistas/nosotros.php"><span><i class="fa fa-suitcase" aria-hidden="true"></i></span>Quienes somos</a></li>
+					<li><a href="vistas/servicios.php"><span><i class="fa fa-users" aria-hidden="true"></i></span>Servicios</a></li>
+					<li><a href="vistas/contacto.php"><span><i class="fa fa-phone" aria-hidden="true"></i></span>Contacto</a></li>
 				</ul>
 			</nav>
 		</div>
@@ -119,30 +119,40 @@
 <!-- </div> -->
 
 <div class="primeraseccion">
+<article class="banner">
+	<p>CALIDAD EN LA CONSTRUCCION Y PERFECCION EN LOS ACABADOS <br>
+COMETREN: ARQUITECTURA PARA TU PROYECTO</p>
+</article>
 	<div class="container margen">
 		<div class="row">
 	       <div class="row">
 			<article class="col-md-6">
 	    			<figure class="col-lg-12">
-					<a href=""><img class="img img-responsive article-img" src="http://farm1.staticflickr.com/258/18511405422_d7c67c0ff8_k.jpg"></a>
+					<a href=""><img class="img img-responsive article-img" src="img/construccion1.jpg"></a>
 					<figcaption class="article-caption"><h1 class="article-title"><a href="">LAS CONSTRUCCIONES QUE TÚ QUIERAS</a></h1>
 					</figcaption>
 					</figure>
 					<div class="article-intro col-lg-12" style="padding-top: 10px;">
-					<strong>Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor. Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor. Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor..</strong>
+					<strong class="letras">
+					<i class="fa fa-check" aria-hidden="true"></i> &nbsp;Una construcción 100% a tu gusto. <br>
+						<i class="fa fa-check" aria-hidden="true"></i> &nbsp;Con los espacios y la distribución que tú deseas. <br>
+						<i class="fa fa-check" aria-hidden="true"></i> &nbsp;Arquitectectos al servicio de nuestros clientes.</strong>
 					</div>
 					
 			</article>
 	                
 	        <article class="col-md-6">
 	        		<figure class="col-lg-12">
-					<a href=""><img class="img img-responsive article-img" src="img/ejemplo3.jpg"></a>
+					<a href=""><img class="img img-responsive article-img" src="img/acabados.jpg"></a>
 					<figcaption class="article-caption"><h1 class="article-title"><a href="">LOS ACABADOS QUE TÚ QUIERAS</a></h1>
 					</figcaption>
 					</figure>
 	
 					<div class="article-intro col-lg-12" style="padding-top: 10px;">
-					<strong>Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor. Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor. Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor..</strong>
+					<strong class="letras">
+					<i class="fa fa-check" aria-hidden="true"></i> &nbsp;Acabados que se ajustan a todos los presupuestos. <br>
+						<i class="fa fa-check" aria-hidden="true"></i> &nbsp;Paquetes a medida, personalizando cada detalle a tu gusto.
+						</strong>
 					</div>
 					
 			</article>
@@ -153,25 +163,31 @@
 	     <div class="row">
 	        <article class="col-md-6">
 	        		<figure class="col-lg-12">
-					<a href=""><img class="img img-responsive article-img" src="http://farm1.staticflickr.com/510/18737505996_98a20bf592_k.jpg"></a>
+					<a href=""><img class="img img-responsive article-img" src="img/casa.jpg"></a>
 					<figcaption class="article-caption"><h1 class="article-title"><a href="">LA CASA QUE TÚ QUIERAS</a></h1>
 					</figcaption>
 					</figure>
 					<div class="article-intro col-lg-12" style="padding-top: 10px;">
-					<strong>Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor. Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor. Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor..</strong>
+					<strong class="letras">
+					<i class="fa fa-check" aria-hidden="true"></i> &nbsp;Tú Defines. <br>
+						<i class="fa fa-check" aria-hidden="true"></i> &nbsp;Tú Escoges. <br>
+						<i class="fa fa-check" aria-hidden="true"></i> &nbsp;Tú Decides cómo será Tu Casa Ideal.</strong>
 					</div>
 					
 			</article>
 	                
 	        <article class="col-md-6">
 	        		<figure class="col-lg-12">
-					<a href=""><img class="img img-responsive article-img" src="http://farm1.staticflickr.com/346/18328027128_704280cd4c_k.jpg"></a>
+					<a href=""><img class="img img-responsive article-img" src="img/materiales2.jpg"></a>
 					<figcaption class="article-caption"><h1 class="article-title"><a href="">LOS MATERIALES QUE TU QUIERAS</a></h1>
 					</figcaption>
 					</figure>
 	
 					<div class="article-intro col-lg-12" style="padding-top: 10px;">
-					<strong>Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor. Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor. Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor..</strong>
+					<strong class="letras">
+					<i class="fa fa-check" aria-hidden="true"></i> &nbsp;Calidad. <br>
+						<i class="fa fa-check" aria-hidden="true"></i> &nbsp;Garantia. <br>
+						<i class="fa fa-check" aria-hidden="true"></i> &nbsp;Entrega a tiempo.</strong>
 					</div>
 					
 			</article>
@@ -180,7 +196,21 @@
 	</div>
 </div>
 
-    <script src="js/jquery.js"></script>
+<footer>
+	<p>Derechos de autor 2017© | COMERCIOS DEL TREN INTERNACIONAL S. de R.L de C.V.</p>
+<article class="mapa">
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3595.111826064243!2d-100.36710358550721!3d25.700721283664418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8662966e9e0525c3%3A0xb5bf064757593be!2sAv+Paseo+de+los+Leones+1684%2C+Leones%2C+64610+Monterrey%2C+N.L.!5e0!3m2!1ses-419!2smx!4v1487171881824" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+</article>
+<div class="btn-toolbar boton" role="toolbar">
+  <a href="vistas/contacto.php">
+		  	<button type="button" class="btn btn-danger btn-lg">
+		    	<span><i class="fa fa-plus" aria-hidden="true"></i></span> Solicita una cotización
+		  	</button>
+		  </a>
+</div>
+</footer>
+
+<script src="js/jquery.js"></script>
 <script type="text/javascript" src="js/iconoarriba.js"></script>
 <script src="js/bootstrap.js"></script>
 <script src="js/menu.js"></script>

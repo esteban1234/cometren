@@ -107,6 +107,26 @@
     background: rgb(182, 206, 35);
 }
 
+.banner {
+    width: 100%;
+    padding: 15px;
+    background-color: rgb(182, 206, 35);
+    margin-top: 2%;
+}
+
+.banner p {
+    width: 60%;
+    padding: 15px;
+    text-align: center;
+    margin: 0 auto;
+    border: 1px #fff solid;
+    font-size: 22px;
+    font-weight: bold;
+    color: #17202a;
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+}
+
 .primeraseccion {
     /*outline: 2px red solid;*/
     overflow: hidden;
@@ -117,6 +137,7 @@
 
 .margen {
     margin-top: 2%;
+    margin-bottom: 2%;
 }
 
 .article-caption {
@@ -144,4 +165,350 @@
     font-size: 28px;
     color: #000;
     font-family: 'Oswald', sans-serif;
+}
+
+.letras {
+    font-size: 18px;
+}
+
+
+/*--------------------footer---------------*/
+
+footer {
+    background-color: #17202a;
+    height: 500px;
+    overflow: hidden;
+}
+
+footer p {
+    text-align: center;
+    font-size: 22px;
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+    width: 100%;
+    margin-top: 2%;
+}
+
+.mapa {
+    width: 100%;
+    margin-top: 2%;
+    height: 100px;
+}
+
+.mapa iframe {
+    width: 100%;
+}
+
+.boton {
+    /*outline: 2px red solid;*/
+    width: 17.5%;
+    /*text-align: center;*/
+    margin: 0 auto;
+    margin-top: 18%;
+}
+
+
+/*-----------nosotros--------------*/
+
+.bannern {
+    position: relative;
+    width: 100%;
+    height: 420px;
+    background: url('../img/tubos.jpg') no-repeat center;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+
+.fondo {
+    width: 100%;
+    height: 420px;
+    background-color: rgba(0, 0, 0, .5);
+    overflow: hidden;
+}
+
+.fondo h1 {
+    width: 50%;
+    margin-top: 10%;
+    margin-left: 5%;
+    font-size: 55px;
+    color: #fff;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.fondo h1 b {
+    color: rgb(182, 206, 35);
+}
+
+.fondo p {
+    width: 80%;
+    margin-top: 1%;
+    margin-left: 5%;
+    font-size: 35px;
+    color: #fff;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.btnn {
+    /*outline: 2px red solid;*/
+    width: 11.5%;
+    /*text-align: center;*/
+    margin: 0 auto;
+    margin-top: 3%;
+}
+
+.contenedorn {
+    width: 100%;
+    overflow: hidden;
+}
+
+.bannernn {
+    width: 100%;
+    padding: 15px;
+    background-color: rgb(182, 206, 35);
+    /*margin-top: 2%;*/
+    overflow: hidden;
+}
+
+.bannernn h1 {
+    width: 100%;
+    padding: 15px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 4%;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(34, 50, 100);
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.bannernn p {
+    width: 90%;
+    /*padding: 15px;*/
+    text-align: justify;
+    margin: 0 auto;
+    margin-bottom: 4%;
+    font-size: 17px;
+    color: #000;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.bannernn2 {
+    width: 100%;
+    padding: 15px;
+    /*background-color: rgb(50, 53, 58);*/
+    /*margin-top: 2%;*/
+    overflow: hidden;
+}
+
+.bannernn2 h1 {
+    width: 100%;
+    padding: 15px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 4%;
+    font-size: 30px;
+    font-weight: bold;
+    /*color: #fff;*/
+    color: rgb(182, 206, 35);
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.bannernn2 h1 b {
+    color: rgb(182, 206, 35);
+}
+
+.bannernn2 p {
+    width: 90%;
+    /*padding: 15px;*/
+    text-align: justify;
+    margin: 0 auto;
+    margin-bottom: 4%;
+    font-size: 18px;
+    color: #000;
+    /*color: rgb(34, 50, 100);*/
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.bannernn2 p b {
+    color: rgb(182, 206, 35);
+}
+
+.contenmvv {
+    /*outline: 2px red solid;*/
+    width: 100%;
+    overflow: hidden;
+}
+
+.bannernnn {
+    width: 100%;
+    padding: 15px;
+    background-color: rgb(50, 53, 58);
+    /*margin-top: 2%;*/
+    overflow: hidden;
+}
+
+.bannernnn h1 {
+    width: 100%;
+    padding: 15px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 4%;
+    margin-bottom: 3%;
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+
+/*--------------------servicios-------------*/
+
+.banners {
+    position: relative;
+    width: 100%;
+    height: 420px;
+    background: url('../img/arqui.jpg') no-repeat center;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+
+.fondos {
+    width: 100%;
+    height: 420px;
+    background-color: rgba(0, 0, 0, .5);
+    overflow: hidden;
+}
+
+.fondos h1 {
+    width: 50%;
+    margin-top: 10%;
+    margin-left: 5%;
+    font-size: 55px;
+    color: #fff;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.fondos h1 b {
+    color: rgb(182, 206, 35);
+}
+
+.fondos p {
+    width: 80%;
+    margin-top: 1%;
+    margin-left: 5%;
+    font-size: 35px;
+    color: #fff;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.contenservicios {
+    width: 100%;
+    outline: 2px red solid;
+    overflow: hidden;
+}
+
+.bannerss {
+    width: 100%;
+    padding: 15px;
+    background-color: rgb(182, 206, 35);
+    /*margin-top: 2%;*/
+    overflow: hidden;
+}
+
+.bannerss h1 {
+    width: 100%;
+    padding: 15px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 4%;
+    margin-bottom: 3%;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(34, 50, 100);
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.bannerss h1 b {
+    color: rgb(255, 255, 255);
+}
+
+.bannercontru {
+    position: relative;
+    width: 100%;
+    height: 420px;
+    background: url('../img/constru.jpg') no-repeat center;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+
+.fondos2 {
+    width: 100%;
+    height: 420px;
+    background-color: rgba(0, 0, 0, .5);
+    overflow: hidden;
+}
+
+.fondos2 h1 {
+    width: 50%;
+    margin-top: 13%;
+    margin-left: 5%;
+    font-size: 55px;
+    color: #fff;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.fondos2 h1 b {
+    color: rgb(182, 206, 35);
+}
+
+.contensercontru {
+    width: 100%;
+    overflow: hidden;
+    /*margin-top: 2%;*/
+}
+
+.servcontru {
+    width: 81%;
+    overflow: hidden;
+    margin: 0 auto;
+    margin-bottom: 2%;
+}
+
+.construuno {
+    /*outline: 2px red solid;*/
+    text-align: center;
+    width: 30%;
+    float: left;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+
+.icono {
+    color: rgb(182, 206, 35);
+    font-size: 40px;
+}
+
+.construuno:hover .icono {
+    color: rgb(34, 50, 100);
+}
+
+.bannercontru2 {
+    position: relative;
+    width: 100%;
+    height: 420px;
+    background: url('../img/comercio.jpg') no-repeat center;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
 }
