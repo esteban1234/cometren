@@ -55,7 +55,7 @@
 			<div class="form-group">
 			  <label class="col-md-4 control-label" for="nombre">Nombre (s);</label>  
 			  <div class="col-md-8">
-			  <input id="nombre" name="nombre" type="text" placeholder="Escribe tu nombre completo" class="form-control input-md" required="">
+			  <input id="nombre" name="nombre" type="text" placeholder="Escribe tu nombre completo" class="form-control input-md" required>
 			    
 			  </div>
 			</div>
@@ -64,7 +64,7 @@
 			<div class="form-group">
 			  <label class="col-md-4 control-label" for="telefono">Teléfono;</label>  
 			  <div class="col-md-8">
-			  <input id="telefono" name="telefono" type="text" placeholder="Escribe tu teléfono" class="form-control input-md" required="">
+			  <input type="tel" id="telefono" name="telefono"  placeholder="Escribe tu teléfono" class="form-control input-md" required>
 			    
 			  </div>
 			</div>
@@ -73,7 +73,7 @@
 			<div class="form-group">
 			  <label class="col-md-4 control-label" for="correo">Correo:</label>  
 			  <div class="col-md-8">
-			  <input id="correo" name="correo" type="text" placeholder="Escribe tu correo" class="form-control input-md" required="">
+			  <input id="correo" name="correo" type="email" placeholder="Escribe tu correo" class="form-control input-md" required>
 			    
 			  </div>
 			</div>
@@ -82,7 +82,7 @@
 			<div class="form-group">
 			  <label class="col-md-4 control-label" for="comentario">Comentario:</label>
 			  <div class="col-md-4">                     
-			    <textarea class="form-control" id="comentario" name="comentario">Escribe aquí tu comentario</textarea>
+			    <textarea class="form-control" id="comentario" name="comentario" placeholder="Escribe aquí tu comentario" required></textarea>
 			  </div>
 			</div>
 
@@ -109,10 +109,10 @@
 
 
 
-<script src="js/jquery.js"></script>
-<script type="text/javascript" src="js/iconoarriba.js"></script>
-<script src="js/bootstrap.js"></script>
-<script src="js/menu.js"></script>
+<script src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/iconoarriba.js"></script>
+<script src="../js/bootstrap.js"></script>
+<script src="../js/menu.js"></script>
 	
 </body>
 </html>

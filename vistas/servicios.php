@@ -181,10 +181,10 @@ drenaje.</h4>
 </footer>
 
 
-<script src="js/jquery.js"></script>
-<script type="text/javascript" src="js/iconoarriba.js"></script>
-<script src="js/bootstrap.js"></script>
-<script src="js/menu.js"></script>
+<script src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/iconoarriba.js"></script>
+<script src="../js/bootstrap.js"></script>
+<script src="../js/menu.js"></script>
 
 </body>
 </html>
