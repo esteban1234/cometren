@@ -69,12 +69,15 @@
     .primeraseccion .banner p {
         width: 100%;
     }
+
     footer {
         height: 100%;
     }
+
     footer p {
         font-size: 18px;
     }
+
     footer .mapa {
         display: none;
     }
