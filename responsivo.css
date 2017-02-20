@@ -87,10 +87,6 @@
     font-size: 18px;
   }
 
-  footer .mapa{
-    display: none;
-  }
-
   /****************INICIA NOSOTROS******************/
   .bannern{
     /*border: 2px solid red;*/
@@ -206,7 +202,7 @@
     width: 50%;
     float: left;
   }
-
+  
     .menu_bar {
         display: block;
         width: 100%;
@@ -278,19 +274,25 @@
     font-size: 18px;
   }
 
-  footer .mapa{
-    display: none;
-  }
-
   /****************INICIA NOSOTROS******************/
   .img-img{
     width: 100%;
   }
 
   /****************INICIA CONTACTO******************/
+  .contenedorcontac
+  {
+    border: 2px solid red;
+  }
+
   .contendirecc, .contenform{
     width: 49%;
     margin: 0px;
     padding: 3%;
   }
+
+  /*.contenform{
+    padding: 0px 5%;
+  }*/
+
 }

@@ -15,6 +15,7 @@
 
 <div class="menu_bar">
 	<a href="#" class="bt-menu"><span class="icon-list2"></span>Menú</a>
+	<i class="fa fa-bars menu-abrir" aria-hidden="true"></i>
 </div>
  		<div class="menu">
 			<nav>

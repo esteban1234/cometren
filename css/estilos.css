@@ -7,19 +7,33 @@
     box-sizing: border-box;
 }
 
+
+/*.contededortodo {
+    background-color: #e5e7e9;
+    outline: 2px red solid;
+    width: 100%;
+}
+*/
+
 .cabeza {
+    /*outline: 2px red solid;*/
     width: 100%;
     background-color: #fff;
+    /*z-index: 100;*/
     overflow: hidden;
 }
 
 .contenheader {
+    /*outline: 2px green solid;*/
     width: 82%;
     margin: 0 auto;
 }
 
 .logo {
+    /*outline: 2px yellow solid;*/
     width: 20%;
+    /*height: 70px;*/
+    /*overflow: hidden;*/
     float: left;
 }
 
@@ -522,6 +536,7 @@ footer p {
 }
 
 .contendirecc {
+    /*outline: 2px green solid;*/
     width: 30%;
     float: left;
     margin-left: 10%;
