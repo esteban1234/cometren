@@ -14,6 +14,7 @@
 
 <div class="menu_bar">
 	<a href="#" class="bt-menu"><span class="icon-list2"></span>Menú</a>
+	<i class="fa fa-bars menu-abrir" aria-hidden="true"></i>
 </div>
 
 <div class="menu">
@@ -168,16 +169,16 @@ drenaje.</h4>
 
 <footer>
 	<p>Derechos de autor 2017© | COMERCIOS DEL TREN INTERNACIONAL S. de R.L de C.V.</p>
-<article class="mapa">
-	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3595.111826064243!2d-100.36710358550721!3d25.700721283664418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8662966e9e0525c3%3A0xb5bf064757593be!2sAv+Paseo+de+los+Leones+1684%2C+Leones%2C+64610+Monterrey%2C+N.L.!5e0!3m2!1ses-419!2smx!4v1487171881824" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-</article>
-<div class="btn-toolbar boton" role="toolbar">
-  <a href="contacto.php">
-		  	<button type="button" class="btn btn-danger btn-lg">
-		    	<span><i class="fa fa-plus" aria-hidden="true"></i></span> Solicita una cotización
-		  	</button>
-		  </a>
-</div>
+	<article class="mapa">
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3595.111826064243!2d-100.36710358550721!3d25.700721283664418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8662966e9e0525c3%3A0xb5bf064757593be!2sAv+Paseo+de+los+Leones+1684%2C+Leones%2C+64610+Monterrey%2C+N.L.!5e0!3m2!1ses-419!2smx!4v1487171881824" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+	</article>
+	<div class="btn-toolbar boton" role="toolbar">
+	  <a href="contacto.php">
+	  	<button type="button" class="btn btn-danger btn-lg">
+	    	<span><i class="fa fa-plus" aria-hidden="true"></i></span> Solicita una cotización
+	  	</button>
+		</a>
+	</div>
 </footer>
 
 
