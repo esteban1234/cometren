@@ -1,4 +1,17 @@
 @media screen and (max-width: 800px) {
+    .menu-abrir{
+      float: right;
+      font-size: 35px;
+      margin-top: 2%;
+      margin-right: 5%;
+    }
+
+
+    .menu_bar a{
+      width: 50%;
+      float: left;
+    }
+
     .menu_bar {
         display: block;
         width: 100%;
@@ -70,9 +83,17 @@
   footer{
     height: 100%;
   }
+
   footer p{
     font-size: 18px;
+    padding: 0px 5%;
   }
+
+  footer .mapa, footer .boton
+  {
+    display: none;
+  }
+
 
   /****************INICIA NOSOTROS******************/
   .bannern{
@@ -81,13 +102,15 @@
 
   .fondo h1{
     width: 100%;
-    margin: 0px;
+    margin: 20% 5%;
     font-size: 26px;
     text-align: center;
   }
 
   .fondo p{
-    margin: 10% 0px;
+    /*margin: 10% 5px;*/
+    margin: 0px;
+    padding: 0px 5%;
     text-align: justify;
     width: 100%;
     font-size: 30px;
@@ -123,14 +146,15 @@
 
 .fondos h1{
   width: 100%;
-  margin: 10% 0px;
+  margin: 16% 0px 10% 0px;
   font-size: 26px;
   text-align: center;
 }
 
 .fondos p{
-  margin: 10% 0px;
-  text-align: justify;
+  margin: 0px;
+  padding: 0px 5%;
+  text-align: center;
   width: 100%;
   font-size: 30px;
 }
@@ -163,17 +187,54 @@
 }
 
 /****************INICIA CONTACTO******************/
-.contendirecc, .contenform{
+
+/*.contenedorcontac{
+  border: 2px solid blue;
+}*/
+
+.contenedorcontac{
+  border: 2px solid blue;
   width: 100%;
-  margin: 5% 0px;
+  clear: both;
+}
+
+
+.contendirecc{
+  border: 2px solid red;
+  width: 100%;
+  margin: 0px;
+  float: none;
+  display: block;
 }
 
 .contenform{
-  padding: 0px 5%;
+  float: none;
+  width: 100%;
+  clear: both;
+  margin: 0px;
+  display: block;
+  border: 2px solid yellow;
 }
+/*.form-horizontal{
+  border: 2px solid green;
+  width: 100%;
+}*/
 }
 
 @media screen and (max-width: 1306px) {
+  .menu-abrir{
+    float: right;
+    font-size: 35px;
+    margin-top: 2%;
+    margin-right: 5%;
+  }
+
+
+  .menu_bar a{
+    width: 50%;
+    float: left;
+  }
+
     .menu_bar {
         display: block;
         width: 100%;
@@ -243,6 +304,12 @@
 
   footer p{
     font-size: 18px;
+    padding: 0px 5%;
+  }
+
+  footer .mapa, footer .boton
+  {
+    display: none;
   }
 
   /****************INICIA NOSOTROS******************/
@@ -253,7 +320,7 @@
   /****************INICIA CONTACTO******************/
   .contenedorcontac
   {
-    border: 2px solid red;
+    /*border: 2px solid red;*/
   }
 
   .contendirecc, .contenform{

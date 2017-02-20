@@ -14,6 +14,7 @@
 
 <div class="menu_bar">
 	<a href="#" class="bt-menu"><span class="icon-list2"></span>Menú</a>
+	<i class="fa fa-bars menu-abrir" aria-hidden="true"></i>
 </div>
 
 <div class="menu">
@@ -53,35 +54,35 @@
 
 			<!-- Text input-->
 			<div class="form-group">
-			  <label class="col-md-4 control-label" for="nombre">Nombre (s);</label>  
+			  <label class="col-md-4 control-label" for="nombre">Nombre (s);</label>
 			  <div class="col-md-8">
 			  <input id="nombre" name="nombre" type="text" placeholder="Escribe tu nombre completo" class="form-control input-md" required>
-			    
+
 			  </div>
 			</div>
 
 			<!-- Text input-->
 			<div class="form-group">
-			  <label class="col-md-4 control-label" for="telefono">Teléfono;</label>  
+			  <label class="col-md-4 control-label" for="telefono">Teléfono;</label>
 			  <div class="col-md-8">
 			  <input type="tel" id="telefono" name="telefono"  placeholder="Escribe tu teléfono" class="form-control input-md" required>
-			    
+
 			  </div>
 			</div>
 
 			<!-- Text input-->
 			<div class="form-group">
-			  <label class="col-md-4 control-label" for="correo">Correo:</label>  
+			  <label class="col-md-4 control-label" for="correo">Correo:</label>
 			  <div class="col-md-8">
 			  <input id="correo" name="correo" type="email" placeholder="Escribe tu correo" class="form-control input-md" required>
-			    
+
 			  </div>
 			</div>
 
 			<!-- Textarea -->
 			<div class="form-group">
 			  <label class="col-md-4 control-label" for="comentario">Comentario:</label>
-			  <div class="col-md-4">                     
+			  <div class="col-md-4">
 			    <textarea class="form-control" id="comentario" name="comentario" placeholder="Escribe aquí tu comentario" required></textarea>
 			  </div>
 			</div>
@@ -113,6 +114,6 @@
 <script type="text/javascript" src="../js/iconoarriba.js"></script>
 <script src="../js/bootstrap.js"></script>
 <script src="../js/menu.js"></script>
-	
+
 </body>
 </html>
