@@ -78,6 +78,10 @@
     footer .mapa {
         display: none;
     }
+
+    footer button {
+        display: none;
+    }
     /****************INICIA NOSOTROS******************/
     .bannern {
         /*border: 2px solid red;*/
@@ -237,6 +241,10 @@
         font-size: 18px;
     }
     footer .mapa {
+        display: none;
+    }
+
+    footer .boton {
         display: none;
     }
     /****************INICIA NOSOTROS******************/
