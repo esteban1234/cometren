@@ -61,20 +61,20 @@
 		<div class="section">
       <div class="container">
         <div class="row">
-          <div class="col-md-4">
-            <img src="../img/mision.jpg" class="img-responsive">
+          <div class="col-xs-12 col-sm-12 col-md-4">
+            <img src="../img/mision.jpg" class="img-responsive img-img">
             <h2>MISION</h2>
             <p>Ofrecer nuestros servicios con la mas alta de calidad con diseños inteligentes, modernos, rentables y elegantes, la mejor ubicación y el mejor diseño, logrando así cubrir todas las espectativas.</p>
           </div>
-          <div class="col-md-4">
+          <div class="col-xs-12 col-sm-12 col-md-4">
             <img src="../img/vision.jpg"
-            class="img-responsive">
+            class="img-responsive img-img">
             <h2>VISION</h2>
             <p>Mantenernos como empresa lider por la calidad, prestigio y garantía de nuestros servicios y productos. Mantener nuestro compromiso de buen servicio y obtener los mejores resultados para nuestros clientes y colaboradores.</p>
           </div>
           <div class="col-md-4">
             <img src="../img/valores.jpg"
-            class="img-responsive">
+            class="img-responsive img-img">
             <h2>VALORES</h2>
             <p><strong>COMETREN</strong> distinguirá siempre por su responsabilidad, honestidad, compromiso, calidad, respeto, ética y trabajo en equipo.</p>
           </div>
@@ -85,13 +85,6 @@
 
 	<article class="bannernnn">
 		<h1>¿NECESITAS CONSTRUIR?</h1>
-		<!-- <div class="btn-toolbar btnn" role="toolbar">
-	  <a href="vistas/contacto.php">
-			  	<button type="button" class="btn btn-danger btn-lg">
-			    	<span><i class="fa fa-plus" aria-hidden="true"></i></span> Contáctanos
-			  	</button>
-			  </a>
-	</div> -->
 	</article>
 </article>
 
@@ -114,6 +107,6 @@
 <script type="text/javascript" src="../js/iconoarriba.js"></script>
 <script src="../js/bootstrap.js"></script>
 <script src="../js/menu.js"></script>
-	
+
 </body>
 </html>
