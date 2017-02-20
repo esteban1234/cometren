@@ -37,7 +37,7 @@
 
 <article class="contenedorcontac">
 	<article class="contendirecc">
-    <div class="row hola">
+    <div class="row">
         <div class="badger-left hola" data-badger="DIRECCION">Av. Paseo de los leones #1684 entre 7A Avenida e Islandia. Col. Cumbres, Monterrey, Nuevo León. México.  </div>
         <div class="badger-right badger-warning hola" data-badger="TELEFONO">PENDIENTE</div>
         <div class="badger-left badger-success hola" data-badger="HORARIO">Lunes a Viernes de 9am a 6pm</div>
